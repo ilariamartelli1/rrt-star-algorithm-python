@@ -1,5 +1,5 @@
 # RRT-Star-algorithm-Python
-2D routing and path planning RRT* algorithm for Python  
+2D routing and path planning RRT* algorithm (Python)  
 
 The RRT* algorithm progressively covers the area in a net of nodes, and dinamically improves and rewires edges to always find the shortest paths  
 
